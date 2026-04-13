@@ -16,6 +16,7 @@
     width: 200px;
     height: 300px;
     font-size: 13px;
+    background-color: aqua;
 }
 .name{
     border: 1px solid black;
@@ -26,4 +27,7 @@
     font-family: "Architects Daughter", cursive;
     font-weight: 400;
     font-style: normal;
+}
+.img{
+    align-self: center;
 }
